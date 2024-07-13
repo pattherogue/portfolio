@@ -1,4 +1,4 @@
-<h1>Hi, I'm Paolo! <br/><a href="https://github.com/pattherogue">Programmer</a>, <a href="https://www.linkedin.com/in/paologomez/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@pattherogue">YouTuber</a></h1>
+<h1>Hi, I'm Paolo! <br/><a href="https://github.com/pattherogue">Programmer</a>, <a href="www.linkedin.com/in/paologmomez">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@pattherogue">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
