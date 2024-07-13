@@ -4,8 +4,8 @@
 
 
 <h2>📃 Certifications</h2>
-- [Google Cybersecurity Certificate](https://www.credly.com/badges/d976f13b-25df-43c2-8c7f-97d697018c57)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- [Google Cybersecurity Certificate] (https://www.credly.com/badges/d976f13b-25df-43c2-8c7f-97d697018c57)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
