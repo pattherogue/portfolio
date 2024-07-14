@@ -7,8 +7,6 @@ Current CS student with an interest in Software Engineering and Cyber Security.
 
 * 🌍  I'm based in Gilroy, CA.
 * ✉️  You can contact me at [pmgomez248@gmail.com](mailto:pmgomez248@gmail.com)
-* 🧠  I'm learning Software Engineering and studying for my Comptia Security+.
-* 🤝  I'm open to collaborating on Cloud Based Projects, Threat Detections, Home Labs, & more.
 
 <h2>👨‍💻 Projects:</h2>
 
