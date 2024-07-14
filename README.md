@@ -5,7 +5,7 @@ Security + Development 💻
 -------------------
 Current CS student with an interest in Software Engineering and Cyber Security. 
 
-* 🌍  I'm based in Gilroy, CA.
+* 🌍  I'm based in Bay Area, CA.
 * ✉️  You can contact me at [pmgomez248@gmail.com](mailto:pmgomez248@gmail.com)
 
 <h2>👨‍💻 Projects:</h2>
