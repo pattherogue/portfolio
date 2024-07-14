@@ -1,6 +1,7 @@
 <h1>Hi, I'm Paolo! 
 
 <h2>👨‍💻 Projects:</h2>
+- [SIEM - Microsoft Sentinel] (https://github.com/pattherogue/SIEM-Lab)
 
 
 <h2>📃 Certifications</h2>
