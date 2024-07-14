@@ -12,7 +12,7 @@ Current CS student with an interest in Software Engineering and Cyber Security.
 
 <h2>👨‍💻 Projects:</h2>
 
- - [Analyzing Global RDP Attacks](https://github.com/pattherogue/SIEM-Lab)
+ - [Global RDP Attack Analysis with Microsoft Sentinel](https://github.com/pattherogue/SIEM-Lab)
 
 
 
