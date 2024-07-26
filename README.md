@@ -1,8 +1,8 @@
 Hi 👋 My name is Paolo Gomez
 ===============================
 
-Security + Development 💻
--------------------
+Software Engineering + Security 💻
+----------------------------------
 Current CS student with an interest in Software Engineering and Cyber Security. 
 
 * 🌍  I'm based in the Bay Area, CA.
