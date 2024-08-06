@@ -16,7 +16,7 @@ Current CS student with an interest in Software Engineering and Cyber Security.
 
 <h2>📃 Certifications</h2>
 
- - [CompTIA Security+]([https://www.credly.com/badges/d976f13b-25df-43c2-8c7f-97d697018c57](https://www.credly.com/badges/6e9dcd3b-a631-4b78-9356-1c3f1199beb6))
+ - [CompTIA Security+](https://www.credly.com/badges/d976f13b-25df-43c2-8c7f-97d697018c57](https://www.credly.com/badges/6e9dcd3b-a631-4b78-9356-1c3f1199beb6))
  - [Google Cybersecurity Certifcate](https://www.credly.com/badges/d976f13b-25df-43c2-8c7f-97d697018c57)
 
 
