@@ -19,6 +19,11 @@ Current CS student with an interest in Software Engineering and Cyber Security.
  - [ComptTIA Security+](https://www.credly.com/badges/6e9dcd3b-a631-4b78-9356-1c3f1199beb6)
  - [Google Cybersecurity Certifcate](https://www.credly.com/badges/d976f13b-25df-43c2-8c7f-97d697018c57)
 
+### Skills
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+</p>
 
 ### Socials
 
