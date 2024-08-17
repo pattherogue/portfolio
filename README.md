@@ -1,8 +1,8 @@
 Hi 👋 My name is Paolo Gomez
 ===============================
 
-Security + Software Engineer 💻
-------------------------------
+Security 🛡️ + Software Engineer 💻
+---------------------------------
 Dedicated cybersecurity professional pursuing a Bachelor's in Computer Science specializing in cybersecurity. CompTIA Security+ certified with the ability to obtain DoD Secret Clearance. Passionate about safeguarding systems and contributing to innovative security solutions in dynamic environments.
 
 * 🌍  I'm based in the Bay Area, CA.
