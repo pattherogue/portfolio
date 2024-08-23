@@ -10,6 +10,7 @@ Dedicated cybersecurity professional pursuing a Bachelor's in Computer Science s
 
 <h2>👨‍💻 Projects:</h2>
 
+ - [AWS Active Directory](https://github.com/pattherogue/AWS-Active-Directory)
  - [Global RDP Attack Analysis with Microsoft Sentinel](https://github.com/pattherogue/SIEM-Lab)
  - [Secure Book Review and User Management System](https://github.com/pattherogue/book-review-platform)
 
