@@ -3,7 +3,7 @@ Hi 👋 My name is Paolo Gomez
 
 Security 🛡️ + Software Engineer 💻
 ---------------------------------
-Dedicated cybersecurity professional pursuing a Bachelor's in Computer Science specializing in cybersecurity. CompTIA Security+ certified with the ability to obtain DoD Secret Clearance. Passionate about safeguarding systems and contributing to innovative security solutions in dynamic environments.
+I am a dedicated cybersecurity professional currently pursuing a Bachelor's in Computer Science with a focus on cybersecurity. CompTIA Security+ certified and eligible for DoD Secret Clearance, I am passionate about protecting systems and driving innovative security solutions in dynamic environments.
 
 * 🌍  I'm based in the Bay Area, CA.
 * ✉️  You can contact me at [pmgomez248@gmail.com](mailto:pmgomez248@gmail.com)
@@ -12,8 +12,8 @@ Dedicated cybersecurity professional pursuing a Bachelor's in Computer Science s
 
  - [C867 (C++)](https://github.com/pattherogue/C867)
  - [AWS Active Directory](https://github.com/pattherogue/AWS-Active-Directory)
- - [Global RDP Attack Analysis with Microsoft Sentinel](https://github.com/pattherogue/SIEM-Lab)
  - [Book Inventory Platform](https://github.com/pattherogue/Book-Inventory-Platform)
+ - [Global RDP Attack Analysis with Microsoft Sentinel](https://github.com/pattherogue/SIEM-Lab)
 
 
 
