@@ -10,7 +10,7 @@ Dedicated cybersecurity professional pursuing a Bachelor's in Computer Science s
 
 <h2>👨‍💻 Projects:</h2>
 
- - [Student Roster Management System (C++)](https://github.com/pattherogue/C867)
+ - [C867 (C++)](https://github.com/pattherogue/C867)
  - [AWS Active Directory](https://github.com/pattherogue/AWS-Active-Directory)
  - [Global RDP Attack Analysis with Microsoft Sentinel](https://github.com/pattherogue/SIEM-Lab)
  - [Book Inventory Platform](https://github.com/pattherogue/Book-Inventory-Platform)
