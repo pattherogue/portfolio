@@ -12,7 +12,7 @@ I am a dedicated cybersecurity professional currently pursuing a Bachelor's in C
 
  - [Ubuntu Linux Command-Line Writeup](https://github.com/pattherogue/Ubuntu-CLI-Essentials/blob/main/README.md)
  - [C867 (C++)](https://github.com/pattherogue/C867)
- - [AWS Active Directory](https://github.com/pattherogue/AWS-Active-Directory)
+ - [AWS Active Directory](https://github.com/pattherogue/AWS-Active-Directory-Lab/blob/main/README.md)
  - [Book Inventory Platform](https://github.com/pattherogue/Book-Inventory-Platform)
  - [Global RDP Attack Analysis with Microsoft Sentinel](https://github.com/pattherogue/SIEM-Lab)
 
