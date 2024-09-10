@@ -10,11 +10,17 @@ Aspiring cybersecurity professional pursuing a Computer Science degree. CompTIA 
 
 <h2>👨‍💻 Projects:</h2>
 
- - [Ubuntu Linux Command-Line Writeup](https://github.com/pattherogue/Ubuntu-CLI-Essentials/blob/main/README.md)
- - [C867 (C++)](https://github.com/pattherogue/C867)
+ Labs:
  - [AWS Active Directory](https://github.com/pattherogue/AWS-Active-Directory-Lab/blob/main/README.md)
- - [Book Inventory Platform](https://github.com/pattherogue/Book-Inventory-Platform)
  - [Global RDP Attack Analysis with Microsoft Sentinel](https://github.com/pattherogue/SIEM-Lab/blob/main/README.md)
+   
+ Write-Ups:
+ - [Ubuntu Linux Command-Line Writeup](https://github.com/pattherogue/Ubuntu-CLI-Essentials/blob/main/README.md)
+
+ Coding Projects:
+ - [C867 (C++)](https://github.com/pattherogue/C867)
+ - [Book Inventory Platform](https://github.com/pattherogue/Book-Inventory-Platform)
+
 
 
 
