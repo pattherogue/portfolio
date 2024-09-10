@@ -15,7 +15,7 @@ Aspiring cybersecurity professional pursuing a Computer Science degree. CompTIA 
  - [Global RDP Attack Analysis with Microsoft Sentinel](https://github.com/pattherogue/SIEM-Lab/blob/main/README.md)
    
  Write-Ups:
- - [Ubuntu Linux Command-Line Writeup](https://github.com/pattherogue/Ubuntu-CLI-Essentials/blob/main/README.md)
+ - [Ubuntu Linux Command-Line](https://github.com/pattherogue/Ubuntu-CLI-Essentials/blob/main/README.md)
 
  Coding Projects:
  - [C867 (C++)](https://github.com/pattherogue/C867)
