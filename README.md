@@ -17,7 +17,7 @@ Aspiring cybersecurity professional pursuing a Computer Science degree. CompTIA 
  Write-Ups:
  - [Ubuntu Linux Command-Line](https://github.com/pattherogue/Ubuntu-CLI-Essentials/blob/main/README.md)
 
- Coding Projects:
+ Coding:
  - [C867 (C++)](https://github.com/pattherogue/C867)
  - [Book Inventory Platform](https://github.com/pattherogue/Book-Inventory-Platform)
 
