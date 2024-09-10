@@ -10,6 +10,7 @@ I am a dedicated cybersecurity professional currently pursuing a Bachelor's in C
 
 <h2>👨‍💻 Projects:</h2>
 
+ - [Ubuntu Linux Command-Line Writeup](https://github.com/pattherogue/Ubuntu-CLI-Essentials/blob/main/README.md)
  - [C867 (C++)](https://github.com/pattherogue/C867)
  - [AWS Active Directory](https://github.com/pattherogue/AWS-Active-Directory)
  - [Book Inventory Platform](https://github.com/pattherogue/Book-Inventory-Platform)
