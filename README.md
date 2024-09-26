@@ -1,7 +1,7 @@
 Hi 👋 My name is Paolo Gomez
 ===============================
 
-Security 🛡️ + Software Engineer 💻
+Security 🛡️ + Computer Science 💻
 ---------------------------------
 Aspiring cybersecurity professional pursuing a Computer Science degree. CompTIA Security+ certified and DoD Secret Clearance eligible, passionate about system security and innovation.
 
