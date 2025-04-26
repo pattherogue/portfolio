@@ -5,8 +5,8 @@ Security 🛡️ + Computer Science 💻
 ---------------------------------
 Aspiring cybersecurity professional with a Computer Science degree. CompTIA Security+ certified and DoD Secret Clearance eligible, passionate about system security and innovation.
 
-* 🌍  I'm based in the Bay Area, CA.
-* ✉️  You can contact me at [pmgomez248@gmail.com](mailto:pmgomez248@gmail.com)
+* 🌍  I'm based in the .
+* ✉️  You can contact me at [](mailto:)
 
 <h2>👨‍💻 Projects:</h2>
 
