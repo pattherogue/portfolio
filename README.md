@@ -23,7 +23,7 @@ Aspiring cybersecurity professional with a Computer Science degree. CompTIA Secu
 
 <h2>📃 Certifications</h2>
 
- - [ComptTIA Security+](https://www.credly.com/badges/6e9dcd3b-a631-4b78-9356-1c3f1199beb6)
+ - ComptTIA Security+
  - ITIL 4 Foundation
  - LPI Linux Essentials
 
